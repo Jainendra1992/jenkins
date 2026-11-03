@@ -9,7 +9,7 @@ public class SchoolSystemApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(SchoolSystemApplication.class, args);
-		System.out.println("i am  git user.....");
+		System.out.println("i am  git user..... this other change require");
 	}
 
 }
