@@ -10,7 +10,7 @@ public class SchoolSystemApplication {
 
 		SpringApplication.run(SchoolSystemApplication.class, args);
 		System.out.println("i am  git user..... this other change require");
-		System.out.println("i am  git user..... but dont need chnage anything");
+		System.out.println("i am  git user..... but dont need chnage anything kuchh nhi..");
 		
 	}
 
